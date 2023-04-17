@@ -1,0 +1,17 @@
+{
+    "name": "alionurserce/mqtt",
+    "autoload": {
+        "psr-4": {
+            "Alionurserce\\Mqtt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Onur",
+            "email": "44605469+alionurserce@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php-mqtt/client": "^1.8"
+    }
+}
